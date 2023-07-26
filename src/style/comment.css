@@ -1,0 +1,22 @@
+.comment {
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.comment-top {
+    padding-top: 16px;
+}
+
+.comment-top p {
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.comment-mid p {
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 10px;
+}

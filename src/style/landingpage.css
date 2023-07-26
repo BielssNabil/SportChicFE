@@ -1,0 +1,117 @@
+.myBG {
+    height: 120vh;
+    background: url(../assets/images/header.png);
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    letter-spacing: 4px;
+}
+
+.produkImage {
+    height: 15rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 15rem;
+}
+
+.images {
+    height: 100%;
+    width: 100%;
+    background-color: #e5e5e5;
+    border-radius: 20px;
+}
+
+.adidas {
+    height: auto;
+    background: url(../assets/images/background2.png);
+}
+
+.iklanImage {
+    height: auto;
+    width: auto;
+}
+
+.button {
+    background-color: #80b918;
+}
+
+.bg-brand {
+    background-color: #e5e5e5;
+}
+
+.produk {
+    height: 100%;
+    width: 100%;
+    background-color: #e5e5e5;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.aboutImg {
+    height: 300px;
+}
+
+.aboutText {
+    height: 500px;
+}
+
+.footer {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #2bc016;
+}
+
+.textFooter {
+    height: 300%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 150%;
+}
+
+.produkImg {
+    height: auto;
+}
+
+.produkWrapper {
+
+}
+
+.populer {
+    height: auto;
+}
+
+.img {
+    height: 200px;
+}
+
+.loginImg {
+    height: 100%;
+    width: 100%;
+}
+
+.login {
+    background-color: #BFBFBF;
+}
+
+.buttonRegister{
+    margin-left: 30px;
+}
+
+.bgProduk {
+    background-color: #BFBFBF;
+    height : 300%;
+}
